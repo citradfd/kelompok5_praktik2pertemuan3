@@ -1,0 +1,4 @@
+#Mon Mar 11 21:16:04 WIB 2024
+base.0=C\:\\Users\\Citra\\Documents\\kelompok5_praktik2pertemuan3\\kelompok5_praktik2pertemuan3\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
